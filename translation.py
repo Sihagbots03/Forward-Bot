@@ -12,7 +12,7 @@ class Translation(object):
 
   DONATE_TXT = """<b><i>If you liked me ❤️. consider make a donation to support my developer 👦
 
-UPI ID - </i></b><code>RahulReviews@UPI</code>"""
+UPI ID - </i></b><code>@UPI</code>"""
 
   HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
 
@@ -55,7 +55,7 @@ UPI ID - </i></b><code>RahulReviews@UPI</code>"""
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
-║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : ʀᴀʜᴜʟ
+║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : SIHAGBOTS 
 ║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
@@ -68,6 +68,7 @@ UPI ID - </i></b><code>RahulReviews@UPI</code>"""
 # For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
   
   STATUS_TXT = """<b>
+@MrJARVISRoBot
 ╔════❰ ʙᴏᴛ sᴛᴀᴛᴜs  ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼👱 ᴛᴏᴛᴀʟ  ᴜsᴇʀs : <code>{}</code>
